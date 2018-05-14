@@ -1,2 +1,1 @@
-# Gomax
-Online shopping comparison website
+.idea
